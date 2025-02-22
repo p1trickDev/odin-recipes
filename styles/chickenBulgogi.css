@@ -1,3 +1,17 @@
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+h1 {
+  text-align: center;
+  background-color: lightgoldenrodyellow;
+}
+.navBar {
+  color: indianred;
+}
+
+ul li a {
+  color: indianred;
+}
 .bulgogi {
   height: 50px;
   width: 50;
