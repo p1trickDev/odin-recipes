@@ -1,0 +1,25 @@
+body,
+html {
+  background-color: blanchedalmond;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: brown;
+}
+
+.navBar {
+  display: flex;
+  gap: 2rem;
+  list-style-type: none;
+  justify-content: center;
+}
+a {
+  text-decoration: none;
+}
+.recipes {
+  color: brown;
+}
