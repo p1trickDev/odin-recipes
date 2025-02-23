@@ -5,14 +5,11 @@ h1 {
   text-align: center;
   background-color: lightgoldenrodyellow;
 }
-.navBar {
-  color: indianred;
-}
-
-ul li a {
-  color: indianred;
-}
 .bulgogi {
   height: 50px;
   width: 50;
+}
+#home {
+  text-decoration: none !important;
+  border-radius: 5px;
 }

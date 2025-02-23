@@ -23,3 +23,33 @@ a {
 .recipes {
   color: brown;
 }
+
+a {
+  box-shadow: inset 0 0 0 0 #54b3d6;
+  color: #54b3d6;
+  border-radius: 4px;
+  margin: 0 -0.25rem;
+  padding: 0 0.25rem;
+  transition:
+    color 0.3s ease-in-out,
+    box-shadow 0.3s ease-in-out;
+}
+a:hover {
+  box-shadow: inset 306px 0 0 0 #54b3d6;
+  color: white;
+}
+/* .recipes:link { */
+/*   text-decoration: none; */
+/* } */
+/**/
+/* .recipes:visited { */
+/*   text-decoration: none; */
+/* } */
+/**/
+/* .recipes:hover { */
+/*   text-decoration: underline; */
+/* } */
+/**/
+/* .recipes:active { */
+/*   text-decoration: underline; */
+/* } */
